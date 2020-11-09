@@ -1,6 +1,6 @@
 ### Hi there 👋 This is JHRunning.
 
-I create somthing everyday.
+I create something everyday.
 
 - [ePapyrus](https://epapyrus.com) | [MotorSense](https://motorsense.io) - Reach Zero Downtime
 - [FastEngine](https://unopenedbox.com/fastengine) - One of the most efficient web search applications that reduces searching flow of multiple websites.
