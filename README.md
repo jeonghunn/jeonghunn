@@ -1,4 +1,4 @@
-### Hi there 👋 This is JHRunning.
+### Hi there 👋 
 
 I create something everyday.
 
