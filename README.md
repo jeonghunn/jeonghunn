@@ -7,7 +7,7 @@ I create something everyday.
 
 #### How to reach to me?
 - Email: jeonghunn1@gmail.com
-- Instagram: [@unopened_box](https://instagram.com/unopened_box)
+- Instagram: [@unopened_box](https://www.instagram.com/unopened_box)
 
 <!--
 **jeonghunn/jeonghunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
