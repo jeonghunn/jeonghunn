@@ -1,13 +1,5 @@
-### Hi there 👋 
-
-I create something everyday.
-
-- [ePapyrus](https://epapyrus.com) | [MotorSense](https://motorsense.io) - Reach Zero Downtime
-- [FastEngine](https://unopenedbox.com/fastengine) - One of the most efficient web search applications that reduces searching flow of multiple websites.
-
 #### How to reach to me?
 - Email: jeonghunn1@gmail.com
-- Instagram: [@unopened_box](https://www.instagram.com/unopened_box)
 
 <!--
 **jeonghunn/jeonghunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
